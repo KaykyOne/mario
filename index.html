@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mario - teste</title>
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+
+<body>
+    <div id="containter">
+        <div class="game-board">
+            <div class="placar">
+                <h1>Pontos: </h1>
+                <h1 id="numeroPlacar">0</h1>
+            </div>
+            <img src="./images/clouds.png" class="vir cloud" />
+            <img src="./images/pipe.png" alt="" id="pipe" />
+            <img src="./images/mario-parado.png" alt="" id="mario" />
+            <div class="teclas">
+                <h4>Controles:</h4>
+                <img src="./images/space.png" width="100px"/>
+                <div class="duasTeclas">
+                    <img src="./images/tecla_a.png" width="47px"/>
+                    <img src="./images/tecla_d.png" width="47px"/>
+                </div>
+            </div>
+        </div>
+        <div id="telaMorreu">
+            <div>
+                <h1>GAME OVER</h1>
+                <button onclick="reiniciar()">Jogar novamente</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="./js/app.js"></script>
+</body>
+
+</html>

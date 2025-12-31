@@ -115,7 +115,7 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 
 **KaykyOne**
 - GitHub: [@KaykyOne](https://github.com/KaykyOne)
-- LinkedIn: [Seu LinkedIn](https://linkedin.com/in/kaykyzioti)
+- LinkedIn: [KaykyZioti](https://linkedin.com/in/kaykyzioti)
 
 ---
 
@@ -124,4 +124,5 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 ---
 
 *Feito com ❤️ e muito ☕ por KaykyOne*
+
 
